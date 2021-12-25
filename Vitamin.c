@@ -3,8 +3,8 @@
 
 struct VitaminC
 {
-	char Formula[30];
-	char Molar_mass[50];
+	char Formula[30]; // 30 bytes of formula
+	char Molar_mass[69]; // SIze 69 bytes of Molar masss
 
 };
 
