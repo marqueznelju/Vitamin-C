@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-struct VitaminC
+struct VitaminC // Let's make the structure of Vitamin C
 {
 	char Formula[30]; // 30 bytes of formula
 	char Molar_mass[69]; // Size 69 bytes of Molar masss
